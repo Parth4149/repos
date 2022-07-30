@@ -117,11 +117,12 @@ nav ul li a:hover{
 
 /* Quote */
 .quote{
-    height: 500px;
+    height: auto;
     background-color: #E5E7EB;
     display: flex;
     align-items: center;
     justify-content: center;
+    padding: 20px 0px 20px 0px;
 }
 .quote div{
     margin: 15%;
